@@ -1,15 +1,11 @@
 /*========================================
- *    sl.c: SL version 5.03
- *        Copyright 1993,1998,2014-2015
- *                  Toyoda Masashi
- *                  (mtoyoda@acm.org)
- *        Last Modified: 2014/06/03
+ *    sl.c: SL version 5.01
+ *	Copyright 1993,1998,2014
+ *                Toyoda Masashi
+ *		  (mtoyoda@acm.org)
+ *	Last Modified: 2014/03/31
  *========================================
  */
-/* sl version 5.03 : Fix some more compiler warningss.                        */
-/*                                              by Ryan Jacobs    2015/01/19 */
-/* sl version 5.02 : Fix compiler warnings.                                  */
-/*                                              by Jeff Schwab    2014/06/03 */
 /* sl version 5.01 : removed cursor and handling of IO                       */
 /*                                              by Chris Seymour  2014/01/03 */
 /* sl version 5.00 : add -c option                                           */
