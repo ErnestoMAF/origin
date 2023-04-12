@@ -6,7 +6,7 @@
  *        Last Modified: 2014/06/03
  *========================================
  */
-/* sl version 5.03 : Fix some more compiler warnings.                        */
+/* sl version 5.03 : Fix some more compiler warningss.                        */
 /*                                              by Ryan Jacobs    2015/01/19 */
 /* sl version 5.02 : Fix compiler warnings.                                  */
 /*                                              by Jeff Schwab    2014/06/03 */
